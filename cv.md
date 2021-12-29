@@ -20,7 +20,7 @@ I would like to link my life with programming. So I joined an RSSchool course.
 ```
 
 ## Experience:
-[https://stoshka.github.io/rsschool-cv/cv] CV#1. Markdown & Git (2021)
+[https://stoshka.github.io/rsschool-cv/cv] (CV#1. Markdown & Git (2021))
 
 
 ## Education:
