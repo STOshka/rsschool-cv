@@ -16,10 +16,8 @@ I would like to link my life with programming. So I joined an RSSchool course.
 ## Code Examples:
 ```function multiply(a, b){
   return a * b
-}```
-
-## Experience:
-* CV#1. Markdown & Git (2021)
+}
+```
 
 ## Education:
 * Francisk Skorina Gomel State University (2013-2018)
