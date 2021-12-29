@@ -14,14 +14,14 @@ I would like to link my life with programming. So I joined an RSSchool course.
 * Javascript
 
 ## Code Examples:
-```function multiply(a, b){
+```
+function multiply(a, b){
   return a * b
 }
 ```
 
 ## Experience:
-[https://stoshka.github.io/rsschool-cv/cv] (CV#1. Markdown & Git (2021))
-
+[CV#1. Markdown & Git (2021)] (https://stoshka.github.io/rsschool-cv/cv)
 
 ## Education:
 * Francisk Skorina Gomel State University (2013-2018)
