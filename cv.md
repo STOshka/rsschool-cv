@@ -21,7 +21,7 @@ function multiply(a, b){
 ```
 
 ## Experience:
-[CV#1. Markdown & Git (2021)] (https://stoshka.github.io/rsschool-cv/cv)
+[CV#1. Markdown & Git (2021)](https://stoshka.github.io/rsschool-cv/cv)
 
 ## Education:
 * Francisk Skorina Gomel State University (2013-2018)
