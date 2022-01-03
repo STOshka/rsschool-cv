@@ -1,15 +1,5 @@
-* {
-    box-sizing: border-box;
-}
-
 html {
     scroll-behavior: smooth; 
-}
-
-body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 }
 
 .nav, footer {
@@ -40,10 +30,12 @@ body {
     margin: auto;
 }
 
-.container {
+.containers {
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+}
+
+.container {
+    width: 50%;
 }
 
 @media screen and (max-width: 600px) {
@@ -51,7 +43,10 @@ body {
         flex-direction: column;
         height: auto;
     }
-    .container {
+    .containers {
         flex-direction: column;
+    }
+    .container {
+        width: 100%;
     }
 }
